@@ -1,0 +1,1155 @@
+2017-06-26 6:01:49 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:01:52 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:01:52 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:01:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:01:52 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:01:52 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:01:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:01:52 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:01:55 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:01:55 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:01:55 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:01:55 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:01:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:01:55 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:01:55 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:01:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:01:57 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:01:57 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:01:57 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:01:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:01:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:01:57 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:01:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:01:57 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:01:59 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:01:59 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:01:59 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:01:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:01:59 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:01:59 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:01:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:01:59 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:02:06 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:02:06 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:02:06 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:02:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:02:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:02:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:02:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:02:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:02:15 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:02:15 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:02:15 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:02:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:02:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:02:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:02:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:02:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:03:22 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:03:22 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:03:22 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:03:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:03:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:03:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:03:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:03:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:03:22 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:03:23 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:03:23 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:03:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:03:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:03:23 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:03:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:03:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:03:31 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:03:31 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:03:31 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:03:31 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:03:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:03:31 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:03:31 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:03:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:04:05 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:04:05 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:04:05 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:04:05 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:04:05 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:04:05 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:04:05 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:04:05 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:04:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:04:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:04:27 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:04:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:04:27 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:04:27 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:04:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:04:27 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:04:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:04:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:04:27 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:04:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:04:27 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:04:27 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:04:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:04:27 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:05:44 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:05:46 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 7
+2017-06-26 6:05:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 10
+2017-06-26 6:05:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 10
+2017-06-26 6:05:46 - PHP Notice:  Undefined variable: mysql in D:\Parthi04\wamp\www\opencart\install\controller\install\step_3.php on line 280
+2017-06-26 6:05:46 - PHP Notice:  Trying to get property of non-object in D:\Parthi04\wamp\www\opencart\install\controller\install\step_3.php on line 280
+2017-06-26 6:05:46 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:05:46 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:05:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:05:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:05:46 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:05:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:05:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:06:15 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:06:17 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 7
+2017-06-26 6:06:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 10
+2017-06-26 6:06:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 10
+2017-06-26 6:06:17 - PHP Notice:  Undefined variable: mysql in D:\Parthi04\wamp\www\opencart\install\controller\install\step_3.php on line 280
+2017-06-26 6:06:17 - PHP Notice:  Trying to get property of non-object in D:\Parthi04\wamp\www\opencart\install\controller\install\step_3.php on line 280
+2017-06-26 6:06:17 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:06:17 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:06:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:06:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:06:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:06:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:06:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:06:49 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:06:52 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:06:52 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:06:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:06:52 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:06:52 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:06:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:06:52 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:06:57 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:06:59 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 7
+2017-06-26 6:06:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 10
+2017-06-26 6:06:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\Parthi04\wamp\www\opencart\system\library\db\mysqli.php on line 10
+2017-06-26 6:06:59 - PHP Notice:  Undefined variable: mysql in D:\Parthi04\wamp\www\opencart\install\controller\install\step_3.php on line 280
+2017-06-26 6:06:59 - PHP Notice:  Trying to get property of non-object in D:\Parthi04\wamp\www\opencart\install\controller\install\step_3.php on line 280
+2017-06-26 6:06:59 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:06:59 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:06:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:06:59 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:06:59 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:06:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:06:59 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:12:18 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:12:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:12:27 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:12:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:12:27 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:12:27 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:12:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:12:27 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:12:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:12:27 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:12:27 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:12:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:12:27 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:12:27 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:12:27 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:12:27 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 6:12:28 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 7
+2017-06-26 6:12:29 - PHP Notice:  Use of undefined constant DIR_SESSION - assumed 'DIR_SESSION' in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 27
+2017-06-26 6:12:29 - PHP Warning:  fopen(DIR_SESSION/sess_619a87cd5e2b950ca9452d6b1f): failed to open stream: No such file or directory in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 29
+2017-06-26 6:12:29 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 31
+2017-06-26 6:12:29 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 33
+2017-06-26 6:12:29 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 35
+2017-06-26 6:12:29 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 37
+2017-06-26 6:12:29 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\session\file.php on line 39
+2017-06-26 9:24:54 - PHP Warning:  Missing argument 1 for Config::get(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 310 and defined in D:\Parthi04\wamp\www\opencart\system\library\config.php on line 5
+2017-06-26 9:24:54 - PHP Notice:  Undefined variable: key in D:\Parthi04\wamp\www\opencart\system\library\config.php on line 6
+2017-06-26 9:24:54 - PHP Warning:  Missing argument 1 for Config::get(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 310 and defined in D:\Parthi04\wamp\www\opencart\system\library\config.php on line 5
+2017-06-26 9:24:54 - PHP Notice:  Undefined variable: key in D:\Parthi04\wamp\www\opencart\system\library\config.php on line 6
+2017-06-26 9:26:21 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 59
+2017-06-26 9:26:21 - PHP Notice:  Undefined index: name in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 60
+2017-06-26 9:26:21 - PHP Notice:  Undefined index: description in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 61
+2017-06-26 9:26:21 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 62
+2017-06-26 9:26:22 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 59
+2017-06-26 9:26:22 - PHP Notice:  Undefined index: name in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 60
+2017-06-26 9:26:22 - PHP Notice:  Undefined index: description in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 61
+2017-06-26 9:26:22 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 62
+2017-06-26 9:26:27 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 59
+2017-06-26 9:26:27 - PHP Notice:  Undefined index: name in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 60
+2017-06-26 9:26:27 - PHP Notice:  Undefined index: description in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 61
+2017-06-26 9:26:27 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 62
+2017-06-26 9:26:28 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 59
+2017-06-26 9:26:28 - PHP Notice:  Undefined index: name in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 60
+2017-06-26 9:26:28 - PHP Notice:  Undefined index: description in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 61
+2017-06-26 9:26:28 - PHP Notice:  Undefined index: category_id in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 62
+2017-06-26 9:30:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:30:44 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:30:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:30:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:30:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:30:44 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:30:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:30:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:30:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:30:44 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:30:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:30:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:30:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:30:44 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:30:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:30:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:30:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:30:44 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:30:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:30:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:30:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:30:44 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:30:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:30:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:26 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:26 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:26 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:26 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:26 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:26 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:26 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:26 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:26 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:26 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:26 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:26 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:27 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:27 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:27 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:27 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:27 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:27 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:27 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:27 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:27 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:27 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:27 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:27 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:30 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:30 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:30 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:30 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:30 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:30 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:30 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:30 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:30 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:30 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:30 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:30 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:31 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:31 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:31:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:31:31 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:31:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:31:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:33:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:33:31 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:33:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:33:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:33:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:33:31 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:33:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:33:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:33:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:33:31 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:33:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:33:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:35 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access private method ControllerFeedWebApi::getCategoriesTree() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 9:34:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:40 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:40 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:40 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 104 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 104 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 9:34:56 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 9:34:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 9:34:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 9:34:56 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 113 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 9:34:56 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 9:34:56 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 10:10:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Parthi04\wamp\www\opencart\system\library\mail\mail.php on line 77
+2017-06-26 10:34:12 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 226
+2017-06-26 10:34:12 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 230
+2017-06-26 10:34:12 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 242
+2017-06-26 10:34:12 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 268
+2017-06-26 10:34:12 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:34:12 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:34:32 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 226
+2017-06-26 10:34:32 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 230
+2017-06-26 10:34:32 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 242
+2017-06-26 10:34:32 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 268
+2017-06-26 10:34:32 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:34:32 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:34:50 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 226
+2017-06-26 10:34:50 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 230
+2017-06-26 10:34:50 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 242
+2017-06-26 10:34:50 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 268
+2017-06-26 10:34:50 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:34:50 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:36:00 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 226
+2017-06-26 10:36:00 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 230
+2017-06-26 10:36:00 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 242
+2017-06-26 10:36:00 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 268
+2017-06-26 10:36:00 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:36:00 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 272
+2017-06-26 10:38:23 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access private method ControllerAccountRegister::validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 10:38:45 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access private method ControllerAccountRegister::validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 10:38:50 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access private method ControllerAccountRegister::validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 10:38:57 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 221
+2017-06-26 10:38:57 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 225
+2017-06-26 10:39:47 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 221
+2017-06-26 10:39:47 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 225
+2017-06-26 10:40:35 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 321
+2017-06-26 10:40:35 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 325
+2017-06-26 10:43:08 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 321
+2017-06-26 10:43:08 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 325
+2017-06-26 10:47:49 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:47:49 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:47:49 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:47:49 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:47:49 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:47:49 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:48:04 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:48:04 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:48:04 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:48:04 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:48:04 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:48:04 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:48:29 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:48:29 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:48:29 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:48:29 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:48:29 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:48:29 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 330
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 330
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 334
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:50:20 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:50:41 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:50:55 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 330
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 330
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 334
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:51:13 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:51:31 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 10:51:31 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:51:31 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:51:31 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:51:31 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:51:31 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:51:46 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:51:46 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:51:46 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 364
+2017-06-26 10:51:46 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:51:46 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 368
+2017-06-26 10:52:28 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:52:28 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:52:39 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:52:39 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:52:45 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:52:45 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:53:13 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:53:13 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 10:53:19 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 10:53:19 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 11:52:09 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Parthi04\wamp\www\opencart\system\library\mail\mail.php on line 77
+2017-06-26 11:53:14 - PHP Notice:  Undefined variable: customer_id in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 395
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 103 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 103 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 109
+2017-06-26 11:55:11 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 117
+2017-06-26 11:55:11 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 120
+2017-06-26 11:55:11 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in D:\Parthi04\wamp\www\opencart\system\library\image.php on line 122
+2017-06-26 11:55:11 - PHP Warning:  Missing argument 2 for Cart\Currency::format(), called in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 112 and defined in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 24
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 25
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 26
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 27
+2017-06-26 11:55:11 - PHP Notice:  Undefined variable: currency in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:55:11 - PHP Notice:  Undefined index:  in D:\Parthi04\wamp\www\opencart\system\library\cart\currency.php on line 30
+2017-06-26 11:56:54 - PHP Notice:  Undefined variable: customer_id in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 395
+2017-06-26 12:02:02 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 322
+2017-06-26 12:02:02 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 326
+2017-06-26 12:02:02 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 330
+2017-06-26 12:02:02 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 330
+2017-06-26 12:02:02 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 334
+2017-06-26 12:02:02 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 338
+2017-06-26 12:05:14 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 401
+2017-06-26 12:09:31 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:09:31 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:10:29 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:10:29 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:11:05 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:11:05 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:14:23 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:14:23 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:14:23 - PHP Warning:  in_array() expects parameter 2 to be array, string given in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 345
+2017-06-26 12:14:23 - PHP Notice:  Undefined variable: register_validate in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 350
+2017-06-26 12:14:39 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:14:39 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:14:53 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:14:53 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:16:49 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:16:49 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:18:05 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:18:05 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:18:50 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:18:50 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:19:06 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:19:06 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:19:52 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:19:52 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:19:52 - PHP Notice:  Undefined variable: register_validate in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 350
+2017-06-26 12:21:59 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:21:59 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:22:31 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:22:31 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:22:50 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:22:50 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:23:40 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 396
+2017-06-26 12:23:40 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 400
+2017-06-26 12:23:40 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:23:40 - PHP Notice:  Undefined index: warning in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 408
+2017-06-26 12:23:40 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 412
+2017-06-26 12:23:40 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:23:54 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 396
+2017-06-26 12:23:54 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 400
+2017-06-26 12:23:54 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:23:54 - PHP Notice:  Undefined index: warning in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 408
+2017-06-26 12:23:54 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 412
+2017-06-26 12:23:54 - PHP Notice:  Undefined index: confirm in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 420
+2017-06-26 12:24:17 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 396
+2017-06-26 12:24:17 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 400
+2017-06-26 12:24:17 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:24:17 - PHP Notice:  Undefined index: warning in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 408
+2017-06-26 12:24:17 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 412
+2017-06-26 12:24:17 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 416
+2017-06-26 12:24:25 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 396
+2017-06-26 12:24:25 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 400
+2017-06-26 12:24:25 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 404
+2017-06-26 12:24:25 - PHP Notice:  Undefined index: warning in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 408
+2017-06-26 12:24:25 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 412
+2017-06-26 12:24:25 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\register.php on line 416
+2017-06-26 12:26:49 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Parthi04\wamp\www\opencart\system\library\mail\mail.php on line 77
+2017-06-26 12:26:49 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 345
+2017-06-26 12:26:49 - PHP Notice:  Undefined variable: register_validate in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 350
+2017-06-26 12:27:19 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Parthi04\wamp\www\opencart\system\library\mail\mail.php on line 77
+2017-06-26 12:27:19 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 345
+2017-06-26 12:28:37 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Parthi04\wamp\www\opencart\system\library\mail\mail.php on line 77
+2017-06-26 12:28:37 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 345
+2017-06-26 12:32:44 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:33:40 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:34:23 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:34:51 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:35:52 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:36:38 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 174
+2017-06-26 12:36:47 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 174
+2017-06-26 12:44:36 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 174
+2017-06-26 12:44:54 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:45:11 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:46:21 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:46:27 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:46:36 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:46:41 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:46:54 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:47:13 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:48:23 - PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, cannot access protected method ControllerAccountLogin::api_validate() in D:\Parthi04\wamp\www\opencart\system\engine\action.php on line 51
+2017-06-26 12:50:07 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:51:18 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:51:18 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 224
+2017-06-26 12:51:18 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 232
+2017-06-26 12:51:30 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:51:30 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 224
+2017-06-26 12:51:30 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 232
+2017-06-26 12:52:22 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:52:22 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 224
+2017-06-26 12:52:22 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 232
+2017-06-26 12:52:47 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:52:47 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 224
+2017-06-26 12:52:47 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 232
+2017-06-26 12:53:19 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:53:19 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 224
+2017-06-26 12:53:19 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 232
+2017-06-26 12:53:57 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 203
+2017-06-26 12:53:57 - PHP Notice:  Undefined index: email in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 224
+2017-06-26 12:53:57 - PHP Notice:  Undefined index: password in D:\Parthi04\wamp\www\opencart\catalog\controller\account\login.php on line 232
+2017-06-26 12:54:17 - PHP Notice:  Undefined index: firstname in D:\Parthi04\wamp\www\opencart\catalog\model\account\customer.php on line 14
+2017-06-26 12:54:17 - PHP Notice:  Undefined index: lastname in D:\Parthi04\wamp\www\opencart\catalog\model\account\customer.php on line 14
+2017-06-26 12:54:17 - PHP Notice:  Undefined index: telephone in D:\Parthi04\wamp\www\opencart\catalog\model\account\customer.php on line 14
+2017-06-26 12:54:18 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Parthi04\wamp\www\opencart\system\library\mail\mail.php on line 77
+2017-06-26 12:54:18 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 364
+2017-06-26 12:55:48 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 364
+2017-06-26 13:00:50 - PHP Notice:  Undefined index: api_token in D:\Parthi04\wamp\www\opencart\catalog\controller\startup\session.php on line 8
+2017-06-26 13:00:50 - PHP Notice:  Undefined index: username in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:00:50 - PHP Notice:  Undefined index: key in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:02:16 - PHP Notice:  Undefined index: api_token in D:\Parthi04\wamp\www\opencart\catalog\controller\startup\session.php on line 8
+2017-06-26 13:02:16 - PHP Notice:  Undefined index: username in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:02:16 - PHP Notice:  Undefined index: key in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:03:36 - PHP Notice:  Undefined index: api_token in D:\Parthi04\wamp\www\opencart\catalog\controller\startup\session.php on line 8
+2017-06-26 13:03:36 - PHP Notice:  Undefined index: username in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:03:36 - PHP Notice:  Undefined index: key in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:03:47 - PHP Notice:  Undefined index: api_token in D:\Parthi04\wamp\www\opencart\catalog\controller\startup\session.php on line 8
+2017-06-26 13:03:47 - PHP Notice:  Undefined index: username in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:03:47 - PHP Notice:  Undefined index: key in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:04:00 - PHP Notice:  Undefined index: username in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:04:00 - PHP Notice:  Undefined index: key in D:\Parthi04\wamp\www\opencart\catalog\controller\api\login.php on line 11
+2017-06-26 13:04:44 - PHP Notice:  Undefined index: api_token in D:\Parthi04\wamp\www\opencart\catalog\controller\startup\session.php on line 8
+2017-06-26 13:07:50 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 364
+2017-06-26 13:11:38 - PHP Notice:  Undefined index: error_sts in D:\Parthi04\wamp\www\opencart\catalog\controller\feed\web_api.php on line 364
+2017-06-26 13:20:30 - PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'efoubuzz_dfg_oc'@'localhost' to database 'efoubuzz_dfg_oc' in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php on line 7
+2017-06-26 13:20:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php on line 10
+2017-06-26 13:20:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php on line 10
+2017-06-26 13:35:52 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 13:42:53 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 368
+2017-06-26 13:42:53 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 372
+2017-06-26 13:42:53 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 376
+2017-06-26 13:42:53 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 384
+2017-06-26 13:42:53 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 388
+2017-06-26 13:42:53 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 392
+2017-06-26 13:44:06 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 345
+2017-06-26 13:52:32 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 13:53:49 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 345
+2017-06-26 13:54:18 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 353
+2017-06-26 13:54:18 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 368
+2017-06-26 13:54:18 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 372
+2017-06-26 13:54:18 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 376
+2017-06-26 13:54:18 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 384
+2017-06-26 13:54:18 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 388
+2017-06-26 13:55:44 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 196
+2017-06-26 13:55:44 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 203
+2017-06-26 13:55:44 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 203
+2017-06-26 13:55:44 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 206
+2017-06-26 13:55:44 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 224
+2017-06-26 13:55:44 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 232
+2017-06-26 13:56:37 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 368
+2017-06-26 13:56:37 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 372
+2017-06-26 13:56:37 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 376
+2017-06-26 13:56:37 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 384
+2017-06-26 13:56:37 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 388
+2017-06-26 13:56:37 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 392
+2017-06-26 13:57:13 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 196
+2017-06-26 13:57:13 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 203
+2017-06-26 13:57:13 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 203
+2017-06-26 13:57:13 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 206
+2017-06-26 13:57:13 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 224
+2017-06-26 13:57:13 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/login.php on line 232
+2017-06-26 13:57:34 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 14:03:16 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 368
+2017-06-26 14:03:16 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 372
+2017-06-26 14:03:16 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 376
+2017-06-26 14:03:16 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 384
+2017-06-26 14:03:16 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 388
+2017-06-26 14:03:16 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 392
+2017-06-26 14:04:38 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 368
+2017-06-26 14:04:38 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 372
+2017-06-26 14:04:38 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 376
+2017-06-26 14:04:38 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 384
+2017-06-26 14:04:38 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 388
+2017-06-26 14:04:38 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 392
+2017-06-26 14:04:46 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 368
+2017-06-26 14:04:46 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 372
+2017-06-26 14:04:46 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 376
+2017-06-26 14:04:46 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 384
+2017-06-26 14:04:46 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 388
+2017-06-26 14:04:46 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 392
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: firstname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 322
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: lastname in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 326
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 330
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 330
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: email in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 334
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: telephone in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 338
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 349
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 353
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: password in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 353
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: warning in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 380
+2017-06-26 14:04:55 - PHP Notice:  Undefined index: confirm in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/account/register.php on line 392
+2017-06-26 14:06:13 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 14:06:18 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 14:06:52 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 14:07:15 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-06-26 14:08:35 - PHP Notice:  Undefined index: error_sts in /home/efoubuzz/public_html/Staging/dfg/oc/catalog/controller/feed/web_api.php on line 364
+2017-07-04 14:58:48 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 15:37:13 - PHP Notice:  Undefined index: email in E:\wamp64\www\_dfg\oc\catalog\controller\account\login.php on line 224
+2017-07-04 15:37:13 - PHP Notice:  Undefined index: password in E:\wamp64\www\_dfg\oc\catalog\controller\account\login.php on line 232
+2017-07-04 15:42:34 - PHP Notice:  Undefined index: email in E:\wamp64\www\_dfg\oc\catalog\controller\account\login.php on line 224
+2017-07-04 15:42:34 - PHP Notice:  Undefined index: password in E:\wamp64\www\_dfg\oc\catalog\controller\account\login.php on line 232
+2017-07-04 15:42:39 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 15:43:08 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:04:42 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:10:30 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:10:30 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:10:30 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:10:57 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:10:57 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:10:57 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:11:11 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:11:11 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:11:11 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:11:17 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:11:17 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:11:17 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:11:33 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:11:33 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:11:33 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:12:45 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:12:45 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:12:45 - PHP Notice:  Array to string conversion in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 410
+2017-07-04 16:12:54 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:13:40 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:13:50 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:16:13 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:16:29 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:16:47 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:42:29 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:42:41 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:43:05 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:43:13 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:45:07 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:47:27 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:48:35 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:49:17 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:49:24 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:52:55 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:53:31 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:54:33 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:54:53 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:55:00 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:57:36 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364
+2017-07-04 16:57:46 - PHP Notice:  Undefined index: error_sts in E:\wamp64\www\_dfg\oc\catalog\controller\feed\web_api.php on line 364

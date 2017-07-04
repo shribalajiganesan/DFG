@@ -1,0 +1,141 @@
+.text-color {
+  color: #cf0360;
+}
+
+.icon-color {
+  color: #cf0360;
+}
+
+.bg-color {
+  background-color: #cf0360;
+}
+
+.bg-color-dark {
+  background-color: #b60857;
+}
+
+.bg-color-light {
+  background-color: #f8d9e7;
+}
+
+a.link-color,
+i.link-color {
+  color: #cf0360;
+}
+
+a.link-color:hover,
+a.link-color:active,
+a.link-color:focus,
+i.link-color:hover,
+i.link-color:active,
+i.link-color:focus {
+  color: #b60857;
+}
+
+.btn-color,
+.inverse a.btn-color {
+  background-color: #cf0360;
+}
+
+.btn-color:hover,
+.btn-color:active,
+.btn-color:focus {
+  background-color: #b60857 !important;
+}
+
+.btn-border-color,
+a.btn-border-color {
+  color: #cf0360 !important;
+  border-color: #cf0360;
+}
+
+.btn-border-color:hover,
+.btn-border-color:active,
+.btn-border-color:focus {
+  color: #b60857 !important;
+  border-color: #b60857;
+}
+
+.input-group .btn {
+  color: #cf0360 !important;
+}
+
+.form-control:focus,
+.form-control:focus + .input-group-btn .btn {
+  border-color: #cf0360;
+}
+
+.error .form-control,
+.error .btn {
+  border-color: #cf0360 !important;
+}
+
+.message {
+  color: #cf0360;
+}
+
+.message-icon {
+  border-color: #cf0360;
+}
+
+.panel-color {
+  border-color: #cf0360;
+}
+
+.panel-color > .panel-heading {
+  background-color: #cf0360;
+}
+
+.panel-color.active > .panel-heading {
+  color: #cf0360;
+}
+
+.tp-bannertimer {
+  background-color: #cf0360;
+}
+
+.dark-version .rs-dot .tp-bullet.selected,
+.dark-version .rs-dot .tp-bullet:hover {
+  background-color: #cf0360;
+}
+
+.dark-version .owl-theme .owl-dots .owl-dot.active span,
+.dark-version .owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #cf0360;
+}
+
+.logo-color span {
+  background-image: url("../../images/logo-violet-pink.png");
+}
+
+.ball-pulse-color > div {
+  background-color: #cf0360;
+}
+
+.navbar-icon span {
+  background-color: #cf0360;
+}
+
+.price-marker {
+  background-color: #cf0360;
+}
+
+.speech-bubble-color {
+  background-color: #cf0360;
+}
+
+.speech-bubble-color:after {
+  border-color: #cf0360 transparent transparent;
+}
+
+.speech-bubble-light {
+  background-color: #f8d9e7;
+}
+
+.speech-bubble-light:after {
+  border-color: #f8d9e7 transparent transparent;
+}
+
+.circles-valueStroke {
+  stroke: #cf0360;
+}

@@ -1,0 +1,7 @@
+[27-Jun-2017 02:41:11 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home/efoubuzz/public_html/Staging/dfg/ci/application/models/Common_model.php on line 19
+[27-Jun-2017 02:41:13 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home/efoubuzz/public_html/Staging/dfg/ci/application/models/Common_model.php on line 19
+[27-Jun-2017 07:06:40 America/Denver] PHP Fatal error:  Call to a member function library() on null in /home/efoubuzz/public_html/Staging/dfg/ci/application/controllers/Home.php on line 26
+[27-Jun-2017 07:06:58 America/Denver] PHP Fatal error:  Call to a member function library() on null in /home/efoubuzz/public_html/Staging/dfg/ci/application/controllers/Home.php on line 26
+[27-Jun-2017 07:07:23 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home/efoubuzz/public_html/Staging/dfg/ci/application/views/home.php on line 731
+[27-Jun-2017 07:07:34 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home/efoubuzz/public_html/Staging/dfg/ci/application/views/home.php on line 731
+[27-Jun-2017 07:09:10 America/Denver] PHP Fatal error:  Call to a member function create() on null in /home/efoubuzz/public_html/Staging/dfg/ci/application/controllers/Home.php on line 38

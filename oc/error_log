@@ -1,0 +1,20 @@
+[26-Jun-2017 13:20:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'efoubuzz_dfg_oc', 'Shri@123', 'efoubuzz_dfg_oc', '3306')
+#1 /home/efoubuzz/public_html/Staging/dfg/oc/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'efoubuzz_dfg_oc', 'Shri@123', 'efoubuzz_dfg_oc', '3306')
+#2 /home/efoubuzz/public_html/Staging/dfg/oc/system/startup.php(104): require_once('/home/efoubuzz/...')
+#3 /home/efoubuzz/public_html/Staging/dfg/oc/index.php(19): start('catalog')
+#4 {main}
+  thrown in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php on line 10
+[26-Jun-2017 13:20:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'efoubuzz_dfg_oc.oc_session' doesn't exist<br />Error No: 1146<br />SELECT `data` FROM `oc_session` WHERE session_id = '125ad9f589d4bcb02636733911' AND expire > 1498483257' in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db.php(16): DB\MySQLi->query('SELECT `data` F...', Array)
+#1 /home/efoubuzz/public_html/Staging/dfg/oc/system/library/session/db.php(21): DB->query('SELECT `data` F...')
+#2 /home/efoubuzz/public_html/Staging/dfg/oc/system/library/session.php(43): Session\DB->read('125ad9f589d4bcb...')
+#3 /home/efoubuzz/public_html/Staging/dfg/oc/system/framework.php(106): Session->start('')
+#4 /home/efoubuzz/public_html/Staging/dfg/oc/system/startup.php(104): require_once('/home/efoubuzz/...')
+#5 /home/efoubuzz/public_html/Staging/dfg/oc/index.php(19): start('catalog')
+#6 {main}
+  thrown in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php on line 40
+[26-Jun-2017 14:06:49 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43
+[26-Jun-2017 14:07:12 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43

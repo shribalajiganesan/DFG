@@ -1,0 +1,146 @@
+.text-color {
+  color: #7877c1;
+}
+
+.text-color {
+  color: #7877c1;
+}
+
+.icon-color {
+  color: #7877c1;
+}
+
+.bg-color {
+  background-color: #7877c1;
+}
+
+.bg-color-dark {
+  background-color: #6c6baa;
+}
+
+.bg-color-light {
+  background-color: #ebebf6;
+}
+
+a.link-color,
+i.link-color {
+  color: #7877c1;
+}
+
+a.link-color:hover,
+a.link-color:active,
+a.link-color:focus,
+i.link-color:hover,
+i.link-color:active,
+i.link-color:focus {
+  color: #6c6baa;
+}
+
+
+.btn-color,
+.inverse a.btn-color {
+  background-color: #7877c1;
+}
+
+.btn-color:hover,
+.btn-color:active,
+.btn-color:focus {
+  background-color: #6c6baa !important;
+}
+
+.btn-border-color,
+a.btn-border-color {
+  color: #7877c1 !important;
+  border-color: #7877c1;
+}
+
+.btn-border-color:hover,
+.btn-border-color:active,
+.btn-border-color:focus {
+  color: #6c6baa !important;
+  border-color: #6c6baa;
+}
+
+.input-group .btn {
+  color: #7877c1 !important;
+}
+
+.form-control:focus,
+.form-control:focus + .input-group-btn .btn {
+  border-color: #7877c1;
+}
+
+.error .form-control,
+.error .btn {
+  border-color: #7877c1 !important;
+}
+
+.message {
+  color: #7877c1;
+}
+
+.message-icon {
+  border-color: #7877c1;
+}
+
+.panel-color {
+  border-color: #7877c1;
+}
+
+.panel-color > .panel-heading {
+  background-color: #7877c1;
+}
+
+.panel-color.active > .panel-heading {
+  color: #7877c1;
+}
+
+.tp-bannertimer {
+  background-color: #7877c1;
+}
+
+.dark-version .rs-dot .tp-bullet.selected,
+.dark-version .rs-dot .tp-bullet:hover {
+  background-color: #7877c1;
+}
+
+.dark-version .owl-theme .owl-dots .owl-dot.active span,
+.dark-version .owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #7877c1;
+}
+
+.logo-color span {
+  background-image: url("../../images/logo-violet-turquoise.png");
+}
+
+.ball-pulse-color > div {
+  background-color: #7877c1;
+}
+
+.navbar-icon span {
+  background-color: #7877c1;
+}
+
+.price-marker {
+  background-color: #7877c1;
+}
+
+.speech-bubble-color {
+  background-color: #7877c1;
+}
+
+.speech-bubble-color:after {
+  border-color: #7877c1 transparent transparent;
+}
+
+.speech-bubble-light {
+  background-color: #ebebf6;
+}
+
+.speech-bubble-light:after {
+  border-color: #ebebf6 transparent transparent;
+}
+
+.circles-valueStroke {
+  stroke: #7877c1;
+}
