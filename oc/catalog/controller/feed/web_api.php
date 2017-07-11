@@ -377,7 +377,7 @@ class ControllerFeedWebApi extends Controller {
 
             //seat allowcation
             $postdata = $this->request->post;
-            $json['lic_info'] = $this->seat_allowcation($response, $postdata);
+            $json['lic_info'] = $this->seat_allowcation($postdata);
         }
 
 
@@ -395,7 +395,7 @@ class ControllerFeedWebApi extends Controller {
      *  input user info and the licence as post
      */
 
-    public function seat_allowcation($user, $lic) {
+    public function seat_allowcation($lic) {
         $lic['intraval'] = '10'; //in mins
         $url = 'http://localhost/_dfg/license_server/index.php/api/seat_allowcation';
         $fields = $lic;
