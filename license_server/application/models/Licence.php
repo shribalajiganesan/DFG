@@ -63,7 +63,7 @@ class Licence extends CI_Model {
         $this->db->where('seat_allowcation.s_end_dt >= ', date('Y-m-d H:i:s', strtotime('now')));
 
         $query = $this->db->get();
-        
+
         if ($query->num_rows() > 0) {
             return true;
         } else {

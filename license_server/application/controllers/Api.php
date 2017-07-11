@@ -63,7 +63,7 @@ class Api extends REST_Controller {
 
     public function genarate_randstring($alph, $spl, $num) {
         $code = substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, $alph); // code alphabat
-        $code.= substr(str_shuffle("!@#$^&*_+"), 0, $spl); // code spl
+        $code.= substr(str_shuffle("!@#$^*_"), 0, $spl); // code spl
         $code.= substr(str_shuffle("0123456789"), 0, $num); //code numaric
 
         return $code;
@@ -77,7 +77,7 @@ class Api extends REST_Controller {
 
     public function seat_allowcation_post() {
         $data = file_get_contents("php://input");
-        $data = json_decode($data, TRUE);
+        $data = json_decode(urldecode($data), TRUE);
 
         $checklicres = $this->licence->checklic($data['app_id'], $data['lic_id']);
         if ($checklicres) { //valid licence
