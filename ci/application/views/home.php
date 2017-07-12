@@ -13,7 +13,7 @@
         <meta name="keywords"
               content="DFG, html theme, app landing page, app theme, app template, android app theme, ios app theme, html landing page, one page, responsive landing page"/>
         <meta name="author" content="Egotype">
-
+        <base href="http://localhost/_dfg/ci/">
         <!-- Favicon -->
         <link rel="icon" href="assets/Favicon.png" type="image/png">
         <link rel="apple-touch-icon" href="assets/Favicon.png">
@@ -118,6 +118,7 @@
                                 <li><a href="#testimonials" class="smooth-scroll hide">Testimonials</a></li>
                                 <li><a href="#gallery" class="smooth-scroll hide">Gallery</a></li>
                                 <li><a href="#contact" class="smooth-scroll">Contact</a></li>
+                                <li><a href="#login-register" class="smooth-scroll">Login / Register</a></li>
                             </ul>
 
                             <!-- Social Links -->
@@ -571,7 +572,7 @@
                                 <!-- Description -->
                                 <h4>Fully Scalable</h4>
 
-                                <p>Whether you are an individual with a few different file types or a company with a few thousand, DAM Pro Filename Creator’s got you covered and is fully scalable to suit your needs</p>
+                                <p>Whether you are an individual with a few different file types or a company with a few thousand, DAM Pro Filename Creatorï¿½s got you covered and is fully scalable to suit your needs</p>
                                 <!--/End Description -->
 
                             </div>
@@ -707,11 +708,11 @@
                         <div class="col-sm-3 col-md-3 col-lg-3"></div>
                         <div class="col-sm-6 wrapper-v-lg wrapper-h-xs-md text-center">
                             <div class="price-plan">
-                                <h4 class="text-uppercase"><?php echo $products[0]['name'];?></h4>
+                                <h4 class="text-uppercase"><?php echo $products[0]['name']; ?></h4>
 
                                 <!-- Price -->
                                 <div class="price-marker">
-                                    <p class="price">$<?php echo rtrim(rtrim((string)number_format($products[0]['price'], 2, ".", ""),"0"),".");?><span class="price-cent">(AUD)</span><br>
+                                    <p class="price">$<?php echo rtrim(rtrim((string) number_format($products[0]['price'], 2, ".", ""), "0"), "."); ?><span class="price-cent">(AUD)</span><br>
                                         <span class="price-period">Including GST</span>
                                     </p>
                                 </div>
@@ -719,7 +720,7 @@
 
                                 <!-- Price Details -->
                                 <ul class="price-details">
-                                    <li><?php echo html_entity_decode($products[0]['description']);?></li>
+                                    <li><?php echo html_entity_decode($products[0]['description']); ?></li>
                                     <!--                                    <li>5 GB of Storage</li>
                                                                         <li>Up to 10 Users</li>
                                                                         <li>Security Suite</li>-->
@@ -738,37 +739,37 @@
                         <!-- /End Pricing Block 1 -->
 
                         <!-- Pricing Block 2 -->
-<!--                        <div class="col-sm-6 wrapper-v-lg wrapper-h-xs-md text-center">
-                            <div class="price-plan">
-                                <h4 class="text-uppercase">Annual Maintenance for updates</h4>
-
-                                 Price 
-                                <div class="price-marker">
-                                    <p class="price">$18<span class="price-cent">(AUD)</span><br>
-                                        <span class="price-period">/Hr</span>
-                                    </p>
-                                </div>
-                                 /End Price 
-
-                                 Price Details 
-                                <ul class="price-details">
-                                    <li>There will be some exciting developments with this application<br> in the future so don't miss out</li>
-                                    <li>Multiple database,Outlook Plugin</li>
-                                    <li>Outlook Plugin</li>
-                                                                        <li>Up to 100 Users</li>
-                                                                        <li>Security Suite</li>
-                                </ul>
-                                 /End Price Details 
-
-                                 Button 
-                                <div class="wrapper-v-md">
-                                    <a href="#" class="btn btn-sm btn-border-silver smooth-scroll">
-                                        Purchase</a>
-                                </div>
-                                 /End Button 
-
-                            </div>
-                        </div>-->
+                        <!--                        <div class="col-sm-6 wrapper-v-lg wrapper-h-xs-md text-center">
+                                                    <div class="price-plan">
+                                                        <h4 class="text-uppercase">Annual Maintenance for updates</h4>
+                        
+                                                         Price 
+                                                        <div class="price-marker">
+                                                            <p class="price">$18<span class="price-cent">(AUD)</span><br>
+                                                                <span class="price-period">/Hr</span>
+                                                            </p>
+                                                        </div>
+                                                         /End Price 
+                        
+                                                         Price Details 
+                                                        <ul class="price-details">
+                                                            <li>There will be some exciting developments with this application<br> in the future so don't miss out</li>
+                                                            <li>Multiple database,Outlook Plugin</li>
+                                                            <li>Outlook Plugin</li>
+                                                                                                <li>Up to 100 Users</li>
+                                                                                                <li>Security Suite</li>
+                                                        </ul>
+                                                         /End Price Details 
+                        
+                                                         Button 
+                                                        <div class="wrapper-v-md">
+                                                            <a href="#" class="btn btn-sm btn-border-silver smooth-scroll">
+                                                                Purchase</a>
+                                                        </div>
+                                                         /End Button 
+                        
+                                                    </div>
+                                                </div>-->
                         <!-- /End Pricing Block 2 -->
 
                         <!--                         Pricing Block 3 
@@ -872,7 +873,7 @@
 
                             <!-- Source -->
                             <p>
-                                <small>Source: video by ©Souhail <a class="link-color" href="https://vimeo.com"
+                                <small>Source: video by ï¿½Souhail <a class="link-color" href="https://vimeo.com"
                                                                     target="_blank">www.vimeo.com</a>
                                 </small>
                             </p>
@@ -910,10 +911,10 @@
 
                                     <!-- Speechbubble -->
                                     <div class="speech-bubble speech-bubble-color">
-                                        <p>“Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                                        <p>ï¿½Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
                                             eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
                                             voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                                            kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.”</p>
+                                            kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.ï¿½</p>
                                     </div>
                                     <!-- /End Speechbubble -->
 
@@ -956,10 +957,10 @@
 
                                     <!-- Speechbubble -->
                                     <div class="speech-bubble speech-bubble-color">
-                                        <p>“Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                                        <p>ï¿½Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
                                             eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
                                             voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                                            kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.”</p>
+                                            kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.ï¿½</p>
                                     </div>
                                     <!-- /End Speechbubble -->
 
@@ -1002,10 +1003,10 @@
 
                                     <!-- Speechbubble -->
                                     <div class="speech-bubble speech-bubble-color">
-                                        <p>“Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                                        <p>ï¿½Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
                                             eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
                                             voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                                            kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.”</p>
+                                            kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.ï¿½</p>
                                     </div>
                                     <!-- /End Speechbubble -->
 
@@ -1316,7 +1317,6 @@
                 </div>
             </section>
 
-
             <!-- ============================
                  Contact Section
             ================================= -->
@@ -1399,6 +1399,83 @@
             </section>
 
 
+            <!-- ===========================
+                 Login / Register 
+            ================================-->
+            <section id="login-register" class="bg-color-dark section-p-lg opacity-90 text-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <h2>Login</h2>
+                            <form action="" method="POST" name="login-from" id="login-from">
+                                <div class="form-group">
+                                    <input type="text" name="username" id="username" class="form-control form-control-silver" placeholder="Username">
+                                </div>
+                                <div class="form-group">
+                                    <input type="password" name="u_secret" id="u_secret" class="form-control form-control-silver" placeholder="Password">
+                                </div>
+                                <div class="form-group">
+                                    <!--<button type="submit" name="login" id="login-btn" class="btn btn-color">Login</button>-->
+                                    <a href="index.php/myaccount" name="login" id="login-btn" class="btn btn-color">Login</a>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <h2>Register</h2>
+                            <form action="" method="POST" name="register-from" id="register-from" class="text-center">
+                                <div class="row">
+                                    <div class="col-md-12 hide">
+                                        <div class="form-group">
+                                            <input type="text" name="username" id="username" class="form-control form-control-silver" placeholder="Username">
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="col-md-6 col-ms-6">
+                                        <div class="form-group">
+                                            <input type="text" name="first-name" id="first-name" class="form-control form-control-silver" placeholder="First Name">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-ms-6">
+                                        <div class="form-group">
+                                            <input type="text" name="last-name" id="last-name" class="form-control form-control-silver" placeholder="Last Name">
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="col-md-6 col-ms-6">
+                                        <div class="form-group">
+                                            <input type="email" name="u_email" id="u_email" class="form-control form-control-silver" placeholder="Email">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-ms-6">
+                                        <div class="form-group">
+                                            <input type="text" name="u_phone" id="u_phone" class="form-control form-control-silver" placeholder="Telephone">
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="col-md-6 col-ms-6">
+                                        <div class="form-group">
+                                            <input type="password" name="u_secret" id="u_secret" class="form-control form-control-silver" placeholder="Password">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-ms-6">
+                                        <div class="form-group">
+                                            <input type="password" name="c_u_secret" id="c_u_secret" class="form-control form-control-silver" placeholder="Confirm Password">
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="col-md-12 col-sm-12">
+                                        <div class="form-group">
+                                            <!--<button type="submit" name="register" id="register" class="btn btn-color">Register</button>-->
+                                            <a href="index.php/myaccount" name="register" id="register" class="btn btn-color">Register</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <!-- ============================
                  Company Section
             ================================= -->
@@ -1458,7 +1535,7 @@
                                     <!-- Address -->
                                     <div class="block text-left">
 <!--                                        <p>Tel.<a class="link-silver" href="tel:012345678991"> 01 23 456 78 99 1</a><br>-->
-                                            Cell <a class="link-silver" href="tel:+61 425 338 003">+61 425 338 003</a></p>
+                                        Cell <a class="link-silver" href="tel:+61 425 338 003">+61 425 338 003</a></p>
                                     </div>
                                     <!-- /End Address -->
 
@@ -1489,8 +1566,8 @@
                                 <span class="separator">|</span>
                                 <a class="link-silver" href="#">Privacy
                                     Policy</a><br>
-                                © 2017 <img src="assets/images/logo-silver.png" alt="..." class="logo-wrapper"
-                                            height="18">.
+                                &copy; 2017 <img src="assets/images/logo-silver.png" alt="..." class="logo-wrapper"
+                                                 height="18">.
                                 All Rights Reserved. Powered by: <a class="link-silver"
                                                                     href="http://www.zcodiatechnologies.com.au/" target="_blank"
                                                                     >Zcodia Technologies</a>
