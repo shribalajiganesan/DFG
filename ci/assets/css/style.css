@@ -1453,3 +1453,24 @@ textarea.form-control {
 p.price {
     font-size: 22px;
 }
+#login-btn.btn-color, #register.btn-color, #login-btn.btn-color:hover, #register.btn-color:hover, #login-btn.btn-color:focus, #register.btn-color:focus, #profile_update {
+    background: rgb(6, 202, 74) !important;
+    outline: none
+}
+#login-from .form-control:focus, #register-from .form-control:focus {
+    border-color: #1fcf5c;
+}
+#login-from ::-webkit-input-placeholder, #register-from ::-webkit-input-placeholder {
+    color: #ffffff;
+}
+ul.social.logged-in_menu li, ul.social.logged-in_menu li a {
+    color: #fff;
+}
+.myaccount-access a:hover, .myaccount-access a:focus {
+    color: #fff;
+    outline: none;
+}
+section#myaccount {
+    padding-top: 145px;
+    padding-bottom: 220px;
+}
