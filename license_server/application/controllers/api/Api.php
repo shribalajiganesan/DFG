@@ -6,17 +6,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /** @noinspection PhpIncludeInspection */
 require APPPATH . 'libraries/REST_Controller.php';
 
-/**
- * This is an example of a few basic user interaction methods you could use
- * all done with a hardcoded array
- *
- * @package         CodeIgniter
- * @subpackage      Rest Server
- * @category        Controller
- * @author          Phil Sturgeon, Chris Kacerguis
- * @license         MIT
- * @link            https://github.com/chriskacerguis/codeigniter-restserver
- */
 class Api extends REST_Controller {
 
     function __construct() {
@@ -30,7 +19,6 @@ class Api extends REST_Controller {
         $data = json_decode($data, TRUE);
         $i = 0;
         $data['licence_identity'] = $this->genrate_unique_licence_id();
-
         $result = $this->common_model->insert('license', $data);
         if ($result) {
             $res['status'] = 'Success';
@@ -199,14 +187,14 @@ class Api extends REST_Controller {
         $data = file_get_contents("php://input");
         $data = json_decode($data, TRUE);
         //user already logged in check 
-        $checkalreadyhaving = $this->licence->checkuserexiest_v2($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], FALSE,$data['app_id']);
+        $checkalreadyhaving = $this->licence->checkuserexiest_v2($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], FALSE, $data['app_id']);
         if ($checkalreadyhaving) {
             $seatinfo = $this->common_model->select('seat_allowcation', 's_identity as seat_id,s_end_dt as expire_on', array('s_id' => $checkalreadyhaving));
             $seatinfo[0]['interval'] = $data['intraval'];
             $res['status'] = 'Success';
             $res['data'] = 'License is in use in this machine';
             $this->response(apiresponce(1, $res['data'], $seatinfo[0]), REST_Controller::HTTP_OK);
-        } 
+        }
         //licence allocation check
         $checklic = $this->licence->check_license_allowcation($data['email'], $data['app_id']);
 
@@ -233,7 +221,7 @@ class Api extends REST_Controller {
                         $res['data'] = 'License Added';
                         $this->response(apiresponce(1, $res['data'], $seatinfo[0]), REST_Controller::HTTP_OK);
                     } else {
-                        $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+                        $seatinfo = array('interval' => '', 'seat_id' => '', 'expire_on' => '');
                         $res['status'] = 'Failure';
                         $res['data'] = 'Some thing went wrong';
                         $this->response(apiresponce(1, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
@@ -241,17 +229,16 @@ class Api extends REST_Controller {
                 } else { //no seat available in this license
                 }
             }
-            $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+            $seatinfo = array('interval' => '', 'seat_id' => '', 'expire_on' => '');
             $res['status'] = 'Failure';
             $res['data'] = 'No seats availale for this user account';
             $this->response(apiresponce(0, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
         } else { //no licence added for you
-            $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+            $seatinfo = array('interval' => '', 'seat_id' => '', 'expire_on' => '');
             $res['status'] = 'Failure';
             $res['data'] = 'No License availale for this user account';
             $this->response(apiresponce(0, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
         }
-        
     }
 
     public function seat_release_v2_post() {
@@ -259,7 +246,7 @@ class Api extends REST_Controller {
         $data = json_decode(urldecode($data), TRUE);
 
         //check already have a runing id
-        $checkalreadyhaving = $this->licence->checkuserexiest_v2($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], FALSE,$data['app_id']);
+        $checkalreadyhaving = $this->licence->checkuserexiest_v2($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], FALSE, $data['app_id']);
         if ($checkalreadyhaving) { //can logout
             $logoutstatus = $this->licence->logout_device($checkalreadyhaving);
             if ($logoutstatus) {
