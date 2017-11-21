@@ -4,7 +4,7 @@ class ControllerFeedWebApi extends Controller {
     # Use print_r($json) instead json_encode($json)
 
     private $debug = false;
-
+    
     public function categories() {
         $this->init();
         $this->load->model('catalog/category');
@@ -365,7 +365,6 @@ class ControllerFeedWebApi extends Controller {
             $json = array('responseCode' => 0, 'responseStatus' => 'ERROR', 'responseMessage' => $response['error_msg']);
             $json['response'] = '';
         } else {
-            // login success 
             $json = array('responseCode' => 1, 'responseStatus' => 'Success', 'responseMessage' => 'Success!');
             unset($response['password']);
             unset($response['customer_group_id']);
@@ -375,9 +374,10 @@ class ControllerFeedWebApi extends Controller {
             unset($response['ip']);
             $json['response'] = $response;
 
+
             //seat allowcation
             $postdata = $this->request->post;
-            $json['lic_info'] = $this->seat_allowcation($postdata);
+            $json['response']['lic_info'] = $this->seat_allowcation($postdata);
         }
 
 
@@ -396,9 +396,62 @@ class ControllerFeedWebApi extends Controller {
      */
 
     public function seat_allowcation($lic) {
-        $lic['intraval'] = '10'; //in mins
-        $url = 'http://localhost/_dfg/license_server/index.php/api/seat_allowcation';
-        $fields = $lic;
+        if (isset($lic['CPUId']) && $lic['CPUId'] != '' && isset($lic['MotherBoardId']) && $lic['MotherBoardId']!='' && isset($lic['DiskId']) && $lic['DiskId']!='') {
+            $lic['intraval'] = '60'; //in mins
+            $url = 'http://dfg.e4buzz.com/license_server/index.php/api/seat_allowcation_v2';
+            $fields = $lic;
+            $headers = array('Authorization' => '', 'Content-Type' => 'application/json');
+            $ch = curl_init();
+            $curlConfig = array(
+                CURLOPT_URL => $url,
+                CURLOPT_POST => true,
+                CURLOPT_RETURNTRANSFER => true,
+                CURLOPT_POSTFIELDS => json_encode($fields),
+                CURLOPT_HTTPHEADER => $headers,
+            );
+            curl_setopt_array($ch, $curlConfig);
+
+            $result = curl_exec($ch);
+            curl_close($ch);
+//            echo '<pre>';
+//            print_r($result);
+//            die;
+
+            if (!$result) {
+                $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+                $res = array('responseCode'=>0,'responseStatus'=>'Failure','responseMessage'=>'Could not make a request to Licence server','response'=>$seatinfo);
+                return $res;
+            }
+            return json_decode($result, true);
+        }else{
+            $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+            $res = array('responseCode'=>0,'responseStatus'=>'Failure','responseMessage'=>'Validation Error','response'=>$seatinfo);
+            return $res;
+        }
+    }
+    
+    /* logout 
+     *  Hit the licencing server with the required data
+     * 
+     *  input user info and the licence as post
+     */
+
+    public function logout() {
+        //seat allowcation
+        $postdata = $this->request->post;
+        $json['respoonse'] = $this->seat_release($postdata);
+        
+        $this->response->setOutput(json_encode($json['respoonse']));
+    }
+
+    /* set release
+     * 
+     * set seat free for already logged in devices
+     */
+
+    public function seat_release($data) {
+        $url = 'http://dfg.e4buzz.com/license_server/index.php/api/seat_release_v2';
+        $fields = $data;
         $headers = array('Authorization' => '', 'Content-Type' => 'application/json');
         $ch = curl_init();
         $curlConfig = array(
@@ -413,12 +466,12 @@ class ControllerFeedWebApi extends Controller {
         $result = curl_exec($ch);
         curl_close($ch);
 
-        echo '<pre>';
-        print_r($result);
-        die;
         if (!$res) {
-            
+            return json_decode($result, true);
+        } else {
+            return FALSE;
         }
     }
+
 
 }

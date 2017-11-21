@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'db.e4buzz.com',
 	'username' => 'efoubuzz_licen',
 	'password' => 'O^#{T)6B]}tm',
 	'database' => 'efoubuzz_licensing_server',

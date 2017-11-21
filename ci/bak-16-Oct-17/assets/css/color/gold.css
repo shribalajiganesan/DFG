@@ -1,0 +1,142 @@
+.text-color {
+  color: #be9f70;
+}
+
+.icon-color {
+  color: #be9f70;
+}
+
+.bg-color {
+  background-color: #be9f70;
+}
+
+.bg-color-dark {
+  background-color: #a78d65;
+}
+
+.bg-color-light {
+  background-color: #f5f1ea;
+}
+
+a.link-color,
+i.link-color {
+  color: #be9f70;
+}
+
+a.link-color:hover,
+a.link-color:active,
+a.link-color:focus,
+i.link-color:hover,
+i.link-color:active,
+i.link-color:focus {
+  color: #a78d65;
+}
+
+
+.btn-color,
+.inverse a.btn-color {
+  background-color: #be9f70;
+}
+
+.btn-color:hover,
+.btn-color:active,
+.btn-color:focus {
+  background-color: #a78d65 !important;
+}
+
+.btn-border-color,
+a.btn-border-color {
+  color: #be9f70 !important;
+  border-color: #be9f70;
+}
+
+.btn-border-color:hover,
+.btn-border-color:active,
+.btn-border-color:focus {
+  color: #a78d65 !important;
+  border-color: #a78d65;
+}
+
+.input-group .btn {
+  color: #be9f70 !important;
+}
+
+.form-control:focus,
+.form-control:focus + .input-group-btn .btn {
+  border-color: #be9f70;
+}
+
+.error .form-control,
+.error .btn {
+  border-color: #be9f70 !important;
+}
+
+.message {
+  color: #be9f70;
+}
+
+.message-icon {
+  border-color: #be9f70;
+}
+
+.panel-color {
+  border-color: #be9f70;
+}
+
+.panel-color > .panel-heading {
+  background-color: #be9f70;
+}
+
+.panel-color.active > .panel-heading {
+  color: #be9f70;
+}
+
+.tp-bannertimer {
+  background-color: #be9f70;
+}
+
+.dark-version .rs-dot .tp-bullet.selected,
+.dark-version .rs-dot .tp-bullet:hover {
+  background-color: #be9f70;
+}
+
+.dark-version .owl-theme .owl-dots .owl-dot.active span,
+.dark-version .owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #be9f70;
+}
+
+.logo-color span {
+  background-image: url("../../images/logo-gold-yellow.png");
+}
+
+.ball-pulse-color > div {
+  background-color: #be9f70;
+}
+
+.navbar-icon span {
+  background-color: #be9f70;
+}
+
+.price-marker {
+  background-color: #be9f70;
+}
+
+.speech-bubble-color {
+  background-color: #be9f70;
+}
+
+.speech-bubble-color:after {
+  border-color: #be9f70 transparent transparent;
+}
+
+.speech-bubble-light {
+  background-color: #f5f1ea;
+}
+
+.speech-bubble-light:after {
+  border-color: #f5f1ea transparent transparent;
+}
+
+.circles-valueStroke {
+  stroke: #be9f70;
+}

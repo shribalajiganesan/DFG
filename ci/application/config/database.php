@@ -78,11 +78,9 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'efoubuzz_dfg_oc',
 	'password' => 'Shri@123',
-//	'username' => 'root',     // For localhost
-//	'password' => '',
 	'database' => 'efoubuzz_dfg_oc',
 	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
+	'dbprefix' => 'os_',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
 	'cache_on' => FALSE,

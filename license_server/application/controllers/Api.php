@@ -63,7 +63,7 @@ class Api extends REST_Controller {
 
     public function genarate_randstring($alph, $spl, $num) {
         $code = substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, $alph); // code alphabat
-        $code.= substr(str_shuffle("!@#$^*_"), 0, $spl); // code spl
+        $code.= substr(str_shuffle("!@#$^&*_+"), 0, $spl); // code spl
         $code.= substr(str_shuffle("0123456789"), 0, $num); //code numaric
 
         return $code;
@@ -77,38 +77,52 @@ class Api extends REST_Controller {
 
     public function seat_allowcation_post() {
         $data = file_get_contents("php://input");
-        $data = json_decode(urldecode($data), TRUE);
+        $data = json_decode($data, TRUE);
 
         $checklicres = $this->licence->checklic($data['app_id'], $data['lic_id']);
         if ($checklicres) { //valid licence
-            $checkuserexiestres = $this->licence->checkuserexiest($data['email']);
-            if ($checkuserexiestres) {
-                //already Logged in with another device
-                $res['status'] = 'Failure';
-                $res['data'] = 'Already Logged in with Other Device';
-                $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+            //check already have a runing id
+            $checkalreadyhaving = $this->licence->checkuserexiest($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId']);
+            if ($checkalreadyhaving) {
+                $seatinfo = $this->common_model->select('seat_allowcation', 's_identity as seat_id,s_end_dt as expire_on', array('s_id' => $checkalreadyhaving));
+                $seatinfo[0]['interval'] = $data['intraval'];
+                $res['status'] = 'Success';
+                $res['data'] = 'Already Logged in with this device';
+                $this->response(apiresponce(1, $res['data'], $seatinfo[0]), REST_Controller::HTTP_OK);
             } else {
-                // valid user for proceed the licence
-                $insert = array(
-                    's_identity' => $this->genrate_unique_seat_id(),
-                    's_email' => $data['email'],
-                    's_app' => $data['app_id'],
-                    's_lic' => $data['lic_id'],
-                    's_ip' => $data['ip_address'],
-                    's_mac' => $data['mac'],
-                    's_added_dt' => date('Y-m-d H:i:s', strtotime('now')),
-                    's_end_dt' => date('Y-m-d H:i:s', strtotime('now +' . $data['intraval'] . 'Min')),
-                );
-                $insertres = $this->common_model->insert('seat_allowcation', $insert);
-                $seatinfo = $this->common_model->select('seat_allowcation', 's_identity as seat_id,s_end_dt as expire_on', array('s_id' => $insertres));
-                if ($seatinfo) {
-                    $res['status'] = 'Success';
-                    $res['data'] = 'License Added';
-                    $this->response(apiresponce(1, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
-                } else {
+                $checkuserexiestres = $this->licence->checkuserexiest($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], 1);
+                if ($checkuserexiestres) {
+                    //already Logged in with another device
                     $res['status'] = 'Failure';
-                    $res['data'] = 'Some thing went wrong';
-                    $this->response(apiresponce(1, $res['data'], $res), REST_Controller::HTTP_OK);
+                    $res['data'] = 'Already Logged in with Other Device';
+                    $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+                } else {
+                    // valid user for proceed the licence
+                    $insert = array(
+                        's_identity' => $this->genrate_unique_seat_id(),
+                        's_email' => $data['email'],
+                        's_app' => $data['app_id'],
+                        's_lic' => $data['lic_id'],
+//                    's_ip' => $data['ip_address'],
+                        's_mac' => $data['mac'],
+                        'cpu_id' => $data['CPUId'],
+                        'mothor_brd_id' => $data['MotherBoardId'],
+                        'disk_id' => $data['DiskId'],
+                        's_added_dt' => date('Y-m-d H:i:s', strtotime('now')),
+                        's_end_dt' => date('Y-m-d H:i:s', strtotime('now +' . $data['intraval'] . 'Min')),
+                    );
+                    $insertres = $this->common_model->insert('seat_allowcation', $insert);
+                    $seatinfo = $this->common_model->select('seat_allowcation', 's_identity as seat_id,s_end_dt as expire_on', array('s_id' => $insertres));
+                    if ($seatinfo) {
+                        $seatinfo[0]['interval'] = $data['intraval'];
+                        $res['status'] = 'Success';
+                        $res['data'] = 'License Added';
+                        $this->response(apiresponce(1, $res['data'], $seatinfo[0]), REST_Controller::HTTP_OK);
+                    } else {
+                        $res['status'] = 'Failure';
+                        $res['data'] = 'Some thing went wrong';
+                        $this->response(apiresponce(1, $res['data'], $res), REST_Controller::HTTP_OK);
+                    }
                 }
             }
         } else {
@@ -135,6 +149,134 @@ class Api extends REST_Controller {
         } while ($res = $this->licence->checkseat_id($ranstring));
 
         return $ranstring;
+    }
+
+    /* seat_release
+     * 
+     * to mark the seat free for next user
+     * input mac,CPUId,MotherBoardId,DiskId, app_id, lic_id, email
+     */
+
+    public function seat_release_post() {
+        $data = file_get_contents("php://input");
+        $data = json_decode(urldecode($data), TRUE);
+
+        $checklicres = $this->licence->checklic($data['app_id'], $data['lic_id']);
+        if ($checklicres) { //valid licence
+            //check already have a runing id
+            $checkalreadyhaving = $this->licence->checkuserexiest($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId']);
+            if ($checkalreadyhaving) { //can logout
+                $logoutstatus = $this->licence->logout_device($checkalreadyhaving);
+                if ($logoutstatus) {
+                    $res['status'] = 'Success';
+                    $res['data'] = 'Device Logged out';
+                    $this->response(apiresponce(1, $res['data'], $res), REST_Controller::HTTP_OK);
+                } else {
+                    $res['status'] = 'Success';
+                    $res['data'] = 'Some thing went wrong';
+                    $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+                }
+            } else {
+                //invalid licence
+                $res['status'] = 'Error';
+                $res['data'] = 'No Mechine Active';
+                $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+            }
+        } else {
+            //invalid licence
+            $res['status'] = 'Failure';
+            $res['data'] = 'License Removed or Expired';
+            $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+        }
+    }
+
+    /* seat allowcation 
+     * 
+     * user informaion, login information 
+     */
+
+    public function seat_allowcation_v2_post() {
+        $data = file_get_contents("php://input");
+        $data = json_decode($data, TRUE);
+        //user already logged in check 
+        $checkalreadyhaving = $this->licence->checkuserexiest_v2($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], FALSE,$data['app_id']);
+        if ($checkalreadyhaving) {
+            $seatinfo = $this->common_model->select('seat_allowcation', 's_identity as seat_id,s_end_dt as expire_on', array('s_id' => $checkalreadyhaving));
+            $seatinfo[0]['interval'] = $data['intraval'];
+            $res['status'] = 'Success';
+            $res['data'] = 'License is in use in this machine';
+            $this->response(apiresponce(1, $res['data'], $seatinfo[0]), REST_Controller::HTTP_OK);
+        } 
+        //licence allocation check
+        $checklic = $this->licence->check_license_allowcation($data['email'], $data['app_id']);
+
+        if (!empty($checklic)) { //licence exiest
+            foreach ($checklic as $key => $lic) {
+                $no_seat_allocated = $this->licence->check_license_availablety($lic['lic_id']);
+                if ($lic['no_seat'] > $no_seat_allocated) { //seat can be allowcated
+                    $insert = array(
+                        's_identity' => $this->genrate_unique_seat_id(),
+                        's_license' => $lic['lic_id'],
+                        's_email' => $data['email'],
+                        's_app' => $data['app_id'],
+                        'cpu_id' => $data['CPUId'],
+                        'mothor_brd_id' => $data['MotherBoardId'],
+                        'disk_id' => $data['DiskId'],
+                        's_added_dt' => date('Y-m-d H:i:s', strtotime('now')),
+                        's_end_dt' => date('Y-m-d H:i:s', strtotime('now +' . $data['intraval'] . 'Min')),
+                    );
+                    $insertres = $this->common_model->insert('seat_allowcation', $insert);
+                    $seatinfo = $this->common_model->select('seat_allowcation', 's_identity as seat_id,s_end_dt as expire_on', array('s_id' => $insertres));
+                    if ($seatinfo) {
+                        $seatinfo[0]['interval'] = $data['intraval'];
+                        $res['status'] = 'Success';
+                        $res['data'] = 'License Added';
+                        $this->response(apiresponce(1, $res['data'], $seatinfo[0]), REST_Controller::HTTP_OK);
+                    } else {
+                        $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+                        $res['status'] = 'Failure';
+                        $res['data'] = 'Some thing went wrong';
+                        $this->response(apiresponce(1, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
+                    }
+                } else { //no seat available in this license
+                }
+            }
+            $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+            $res['status'] = 'Failure';
+            $res['data'] = 'No seats availale for this user account';
+            $this->response(apiresponce(0, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
+        } else { //no licence added for you
+            $seatinfo = array('interval'=>'','seat_id'=>'','expire_on'=>'');
+            $res['status'] = 'Failure';
+            $res['data'] = 'No License availale for this user account';
+            $this->response(apiresponce(0, $res['data'], $seatinfo), REST_Controller::HTTP_OK);
+        }
+        
+    }
+
+    public function seat_release_v2_post() {
+        $data = file_get_contents("php://input");
+        $data = json_decode(urldecode($data), TRUE);
+
+        //check already have a runing id
+        $checkalreadyhaving = $this->licence->checkuserexiest_v2($data['email'], $data['CPUId'], $data['MotherBoardId'], $data['DiskId'], FALSE,$data['app_id']);
+        if ($checkalreadyhaving) { //can logout
+            $logoutstatus = $this->licence->logout_device($checkalreadyhaving);
+            if ($logoutstatus) {
+                $res['status'] = 'Success';
+                $res['data'] = 'Device Logged out';
+                $this->response(apiresponce(1, $res['data'], $res), REST_Controller::HTTP_OK);
+            } else {
+                $res['status'] = 'Success';
+                $res['data'] = 'Some thing went wrong';
+                $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+            }
+        } else {
+            //invalid licence
+            $res['status'] = 'Error';
+            $res['data'] = 'No Mechine Active';
+            $this->response(apiresponce(0, $res['data'], $res), REST_Controller::HTTP_OK);
+        }
     }
 
 }

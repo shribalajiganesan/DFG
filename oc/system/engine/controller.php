@@ -4,6 +4,7 @@ abstract class Controller {
 
 	public function __construct($registry) {
 		$this->registry = $registry;
+                header('Access-Control-Allow-Origin: *');
 	}
 
 	public function __get($key) {

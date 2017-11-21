@@ -1,18 +1,18 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/_dfg/oc/admin/');
-define('HTTP_CATALOG', 'http://localhost/_dfg/oc/');
+define('HTTP_SERVER', 'http://dfg.e4buzz.com/oc/admin/');
+define('HTTP_CATALOG', 'http://dfg.e4buzz.com/oc/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/_dfg/oc/admin/');
-define('HTTPS_CATALOG', 'http://localhost/_dfg/oc/');
+define('HTTPS_SERVER', 'http://dfg.e4buzz.com/oc/admin/');
+define('HTTPS_CATALOG', 'http://dfg.e4buzz.com/oc/');
 
 // DIR
-define('DIR_APPLICATION', 'E:\wamp64\www\_dfg/oc/admin/');
-define('DIR_SYSTEM', 'E:\wamp64\www\_dfg/oc/system/');
-define('DIR_IMAGE', 'E:\wamp64\www\_dfg/oc/image/');
-define('DIR_STORAGE', 'E:\wamp64\www\_dfg/oc/system/storage/');
-define('DIR_CATALOG', 'E:\wamp64\www\_dfg/oc/catalog/');
+define('DIR_APPLICATION', '/home/efoubuzz/public_html/Staging/dfg/oc/admin/');
+define('DIR_SYSTEM', '/home/efoubuzz/public_html/Staging/dfg/oc/system/');
+define('DIR_IMAGE', '/home/efoubuzz/public_html/Staging/dfg/oc/image/');
+define('DIR_STORAGE', '/home/efoubuzz/public_html/Staging/dfg/oc/system/storage/');
+define('DIR_CATALOG', '/home/efoubuzz/public_html/Staging/dfg/oc/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');

@@ -6,7 +6,7 @@ if (!function_exists('apiresponce')) {
    function apiresponce($status, $status_custom_msg, $responce) {
        $data = array();
        if ($status == '1') {
-           $status_msg = 'Sucess';
+           $status_msg = 'Success';
        } else {
            $status_msg = 'Error';
        }

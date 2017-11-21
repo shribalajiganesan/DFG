@@ -18,3 +18,10 @@ Stack trace:
   thrown in /home/efoubuzz/public_html/Staging/dfg/oc/system/library/db/mysqli.php on line 40
 [26-Jun-2017 14:06:49 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43
 [26-Jun-2017 14:07:12 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43
+[07-Jul-2017 12:19:53 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43
+[20-Jul-2017 13:25:05 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43
+[20-Jul-2017 13:41:10 UTC] PHP Fatal error:  Class 'Controllerfeedwebapi' not found in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/action.php on line 43
+[07-Aug-2017 13:53:30 UTC] PHP Fatal error:  Call to a member function get() on null in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/controller.php on line 10
+[07-Aug-2017 13:54:31 UTC] PHP Fatal error:  Call to a member function get() on null in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/controller.php on line 10
+[07-Aug-2017 13:54:40 UTC] PHP Fatal error:  Call to a member function get() on null in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/controller.php on line 10
+[07-Aug-2017 13:56:56 UTC] PHP Fatal error:  Call to a member function get() on null in /home/efoubuzz/public_html/Staging/dfg/oc/system/engine/controller.php on line 10
